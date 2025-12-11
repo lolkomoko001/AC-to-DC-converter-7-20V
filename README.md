@@ -1,6 +1,6 @@
 <h1>Hello</h1> I made Small (5x3,5cm) AC to DC converter for 7 V-20 V . Withou heatsink for tranzistor its usable to around 10 V or 200mA before heating much . I made it at school with acid so its sort of double layer one for components and the other for traces. It took me around 1,5 hours to fully complete it. If you have any recommendations how to make it better type :)
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Components are mirrored like i have on my board 
 items used:
 
@@ -19,7 +19,7 @@ items used:
 1x tranzistor L7805CP 
 
 and one 5x3,5 cm pcb
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Here are some photos of the project
 
 <img width="1383" height="679" alt="Screenshot 2025-12-08 173348" src="https://github.com/user-attachments/assets/31d4d9dd-09e7-4d99-966b-c3efba6ea1ab" />
