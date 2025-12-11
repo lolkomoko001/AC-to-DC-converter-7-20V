@@ -1,4 +1,4 @@
-Hello I made Small (5x3,5cm) AC to DC converter for 7 V-20 V . Withou heatsink for tranzistor its usable to around 10 V or 200mA before heating much . I made it at school with acid so its sort of double layer one for components and the other for traces. It took me around 1,5 hours to fully complete it. If you have any recommendations how to make it better type :)
+<h1>Hello</h1> I made Small (5x3,5cm) AC to DC converter for 7 V-20 V . Withou heatsink for tranzistor its usable to around 10 V or 200mA before heating much . I made it at school with acid so its sort of double layer one for components and the other for traces. It took me around 1,5 hours to fully complete it. If you have any recommendations how to make it better type :)
 
 
 Components are mirrored like i have on my board 
