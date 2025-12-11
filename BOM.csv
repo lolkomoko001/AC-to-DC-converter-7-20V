@@ -1,0 +1,15 @@
+Product name ,QTY,Designator,Cost {retail} ,link 
+4x wires,4,,?,
+4x 1N4007 diodes,4,D1  D2 D3 D4,"0.16 € (0,04 € per unit)",https://www.drotik-elektro.sk/arduino-platforma/1076-usmernovacia-dioda-1n4007.html
+"1x LED diode
+",1,D5,"0,03 €",https://techfun.sk/produkt/led-ka-1-kus-5mm-rozne-farby/?attribute_pa_farba-led-ky=modra&currency=EUR
+"1x capacitor 100uF
+",1,C1,"0,05  €",https://www.elecom.sk/el-100uf-35v-2/
+"1x capacitor 0,1uF
+",1,C2,0.28 €,https://www.sparkfun.com/capacitor-ceramic-0-1uf.html
+"1x 470ohm resistor
+",1,R1,"0,02 €",https://techfun.sk/produkt/rezistor-rozne-hodnoty-1-4w-10-kusov/?attribute_pa_odpor=470-ohm-20-kusov&currency=EUR
+"1x tranzistor L7805CP
+",1,U1,"0,85 €",https://www.tme.eu/sk/details/l7805cp/stabilizatory-napatia-neregulovane/stmicroelectronics/
+" 5x3,5 cm pcb
+",1,,?,
