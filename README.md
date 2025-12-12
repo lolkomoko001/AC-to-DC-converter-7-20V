@@ -23,8 +23,14 @@ and one 5x3,5 cm pcb
 Here are some photos of the project
 
 <img width="1383" height="679" alt="Screenshot 2025-12-08 173348" src="https://github.com/user-attachments/assets/31d4d9dd-09e7-4d99-966b-c3efba6ea1ab" />
-<img width="1110" height="715" alt="Screenshot 2025-12-08 174002" src="https://github.com/user-attachments/assets/db31dd74-fc6f-42ef-8ad4-ea6402341c22" />
+<img width="694" height="471" alt="image" src="https://github.com/user-attachments/assets/12530403-f973-4c38-aa6b-1e85eafebbb7" />
 <img width="1031" height="656" alt="Screenshot 2025-12-08 174048" src="https://github.com/user-attachments/assets/b33bf969-e7ac-4000-bfe6-37dd4236f730" />
-<img width="1227" height="627" alt="Screenshot 2025-12-08 174027" src="https://github.com/user-attachments/assets/f5ebcff0-ac1f-4dbb-ae81-1a49ee96dcec" />
+<img width="987" height="647" alt="image" src="https://github.com/user-attachments/assets/324a4c0c-b352-4704-9182-52d61a15e2da" />
+<img width="1014" height="786" alt="image" src="https://github.com/user-attachments/assets/35fc3cb2-2f1c-4119-bfc9-1bb72e2d4f8b" />
 <img width="1043" height="702" alt="Screenshot 2025-12-08 174615" src="https://github.com/user-attachments/assets/f23ea5a3-172f-4e16-aa83-003753e23ee0" />
 <img width="704" height="857" alt="Screenshot 2025-12-08 174605" src="https://github.com/user-attachments/assets/889c382e-dfe2-4e82-a6e8-d28157fd9a7d" />
+<img width="791" height="577" alt="image" src="https://github.com/user-attachments/assets/f7eade51-dc10-4db2-b004-d59b819d8d5f" />
+
+(The acid ate some of the copper so thats why it looks like that)
+
+
